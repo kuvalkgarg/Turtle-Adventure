@@ -30,5 +30,9 @@ python turtle_trails.py
 6. Move the player character over a fruit to collect it. The collected fruits will be hidden, and the fruit count will increase.
 7. The game ends when all the fruits are collected or when the time limit is exceeded.
 
+# Snapshots
+![Screenshot of the map setup]()
+![Screenshot of the minigame]()
+
 # Conclusion
 This turtle graphics game provides an interactive and challenging gameplay experience. By collecting all the ethereal fruits within the given time, players can successfully complete the game. The project demonstrates the use of Python and the Turtle graphics library to create a visually engaging game. Enjoy playing and have fun!
