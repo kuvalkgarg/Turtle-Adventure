@@ -31,8 +31,14 @@ python turtle_trails.py
 7. The game ends when all the fruits are collected or when the time limit is exceeded.
 
 # Snapshots
+* Map Setup
 ![Screenshot of the map setup](map_setup.png)
-![Screenshot of the minigame]()
+
+* Minigame Demo
+![Screenshot of the minigame](minigame.png)
+
+* NPC Interaction
+![Screenshot of the NPC interaction](npc_interaction.png)
 
 # Conclusion
 This turtle graphics game provides an interactive and challenging gameplay experience. By collecting all the ethereal fruits within the given time, players can successfully complete the game. The project demonstrates the use of Python and the Turtle graphics library to create a visually engaging game. Enjoy playing and have fun!
