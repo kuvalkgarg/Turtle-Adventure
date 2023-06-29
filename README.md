@@ -31,7 +31,7 @@ python turtle_trails.py
 7. The game ends when all the fruits are collected or when the time limit is exceeded.
 
 # Snapshots
-![Screenshot of the map setup]()
+![Screenshot of the map setup](map_setup.png)
 ![Screenshot of the minigame]()
 
 # Conclusion
