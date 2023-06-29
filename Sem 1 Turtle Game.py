@@ -261,31 +261,31 @@ if __name__ == "__main__" :
       global check2, check1
       # restrict other NPC's to interact during setup of minigame
       if check2==0 and check1!=1:
-        print("I'm a pink bitch")
+        print("Insert Pink's dialogue")
       check2=1
 
     def npc3doesstuff():
       global check3, check1
       if check3==0 and check1!=1:
-        print("I'm a red bitch")
+        print("Insert Red's dialogue")
       check3=1
 
     def npc4doesstuff():
       global check4, check1
       if check4==0 and check1!=1:
-        print("I'm a purple bitch")
+        print("Insert Purple's dialogue")
       check4=1
 
     def npc5doesstuff():
       global check5, check1
       if check5==0 and check1!=1:
-        print("I'm a green bitch")
+        print("Insert Green's dialogue")
       check5=1
 
     def npc6doesstuff():
       global check6, check1
       if check6==0 and check1!=1:
-        print("I'm a blue bitch")
+        print("Insert Blue's dialogue")
       check6=1
 
     # driver code
